@@ -14,13 +14,13 @@ git clone <frontend-repository-url>
 cd smart-agriculture-app/frontend
 
 Install Dependencies:
-Copy code
+bashCopy code
 npm install
 
 Configure Environment Variables:
 Create a .env file in the root directory and add any necessary environment variables, such as API endpoints or keys.
 Run the App:
-sqlCopy code
+bashCopy code
 npm start
 
 Access the App:
@@ -32,28 +32,26 @@ git clone <backend-repository-url>
 cd smart-agriculture-app/backend
 
 Install Dependencies:
-Copy code
+bashCopy code
 npm install
 
 Configure Environment Variables:
 Create a .env file in the root directory and add any necessary environment variables, such as database connection strings or API keys.
 Run the Server:
-sqlCopy code
+bashCopy code
 npm start
 
 Dependencies:
 Frontend:
-react
-axios
-react-router-dom
-bootstrap
+React
+Axios
+React Router DOM
+Bootstrap
 Backend:
-express
-mongoose
-jsonwebtoken
-dotenv
+Express
+Mongoose
+Jsonwebtoken
+Dotenv
 Contributors:
 John Doe (@johndoe)
 Jane Smith (@janesmith)
-License:
-This project is licensed under the MIT License - see the LICENSE file for details.
