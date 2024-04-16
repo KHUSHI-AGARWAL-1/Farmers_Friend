@@ -33,35 +33,35 @@ Create a .env file in the root directory and add any necessary environment varia
 ```bash
 npm start
 
-Access the App:
+**Access the App:**
 Open your web browser and navigate to http://localhost:3000 to access the app.
-Backend Setup Instructions:
-Clone the Repository:
-bashCopy code
+## Backend Setup Instructions:
+**Clone the Repository:**
+```bash
 git clone <backend-repository-url>
 cd smart-agriculture-app/backend
 
-Install Dependencies:
-bashCopy code
+**Install Dependencies:**
+```bash
 npm install
 
-Configure Environment Variables:
+**Configure Environment Variables:**
 Create a .env file in the root directory and add any necessary environment variables, such as database connection strings or API keys.
-Run the Server:
-bashCopy code
+**Run the Server:**
+```bash
 npm start
 
-Dependencies:
-Frontend:
+## Dependencies:
+**Frontend:**
 React
 Axios
 React Router DOM
 Bootstrap
-Backend:
+**Backend:**
 Express
 Mongoose
 Jsonwebtoken
 Dotenv
-Contributors:
+## Contributors:
 John Doe (@johndoe)
 Jane Smith (@janesmith)
