@@ -22,46 +22,47 @@ This app aims to assist farmers by providing essential information and recommend
    ```bash
    git clone <frontend-repository-url>
    cd smart-agriculture-app/frontend
- **Install Dependencies:**
-   ```bash
-  npm install
 
+Install Dependencies:
+bash
+npm install
 
-**Configure Environment Variables:**
+Configure Environment Variables:
 Create a .env file in the root directory and add any necessary environment variables, such as API endpoints or keys.
-**Run the App:**
-```bash
+Run the App:
+bash
 npm start
 
-**Access the App:**
+Access the App:
 Open your web browser and navigate to http://localhost:3000 to access the app.
-## Backend Setup Instructions:
-**Clone the Repository:**
-```bash
+Backend Setup Instructions:
+Clone the Repository:
+bashCopy code
 git clone <backend-repository-url>
 cd smart-agriculture-app/backend
 
-**Install Dependencies:**
-```bash
+Install Dependencies:
+bashCopy code
 npm install
 
-**Configure Environment Variables:**
+Configure Environment Variables:
 Create a .env file in the root directory and add any necessary environment variables, such as database connection strings or API keys.
-**Run the Server:**
-```bash
+Run the Server:
+bashCopy code
 npm start
 
-## Dependencies:
-**Frontend:**
+Dependencies:
+Frontend:
 React
 Axios
 React Router DOM
 Bootstrap
-**Backend:**
+Backend:
 Express
 Mongoose
 Jsonwebtoken
 Dotenv
-## Contributors:
-John Doe (@johndoe)
-Jane Smith (@janesmith)
+Contributors:
+Tanisha Agrawal
+Khushi Agrawal
+Tushar Agarwal
