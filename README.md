@@ -1,4 +1,4 @@
-# Smart Agriculture Advisory App
+# Farmers' Friend
 
 This app aims to assist farmers by providing essential information and recommendations to improve crop yield and resource usage efficiency.
 
