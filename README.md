@@ -22,15 +22,15 @@ This app aims to assist farmers by providing essential information and recommend
    ```bash
    git clone <frontend-repository-url>
    cd smart-agriculture-app/frontend
+ **Install Dependencies:**
+   ```bash
+  npm install
 
-Install Dependencies:
-bashCopy code
-npm install
 
-Configure Environment Variables:
+**Configure Environment Variables:**
 Create a .env file in the root directory and add any necessary environment variables, such as API endpoints or keys.
-Run the App:
-bashCopy code
+**Run the App:**
+```bash
 npm start
 
 Access the App:
